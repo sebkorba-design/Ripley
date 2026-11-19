@@ -1,0 +1,15 @@
+# Secrets OAuth Google
+credentials.json
+token.json
+client_secret*.json
+*.pickle
+
+# Environnement
+.env
+.env.*
+
+# Divers
+__pycache__/
+*.pyc
+node_modules/
+*.log
